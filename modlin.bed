@@ -1,3 +1,4 @@
+# This mask contains all of the blind spots from https://doi.org/10.1099/mgen.0.000465
 NC_000962.3	0	33
 NC_000962.3	60	61
 NC_000962.3	1589	1591
