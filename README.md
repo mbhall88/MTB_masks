@@ -2,7 +2,7 @@
 
 ### `modlin.bed`
 
-This mask contains all of the blind spots from [Modlin *et al.*][modlin].
+This mask contains all of the blind spots from [Modlin *et al.*][modlin]. Note: these are **Illumina** blind spots; whether they also apply to other sequencing technologies is yet to be determined.
 
 ### `marin-PMapK50E4.bed`
 
