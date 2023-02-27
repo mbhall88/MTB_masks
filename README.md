@@ -1,5 +1,7 @@
 ## Genomic Masks for *Mycobacterium tuberculosis*
 
+Each [BED] file also contains a header (line starting with `#`) with information about where the mask comes from.
+
 ### `modlin.bed`
 
 This mask contains all of the blind spots from [Modlin *et al.*][modlin]. Note: these are **Illumina** blind spots; whether they also apply to other sequencing technologies is yet to be determined.
@@ -24,5 +26,6 @@ This is the union of `marin-rlc.bed` and `marin-PMapK50E4.bed`.
 
 This is the union of `marin-conservative.bed` and `modlin.bed`
 
+[BED]: https://samtools.github.io/hts-specs/BEDv1.pdf
 [marin]: https://doi.org/10.1093/bioinformatics/btac023
 [modlin]: https://doi.org/10.1099/mgen.0.000465
