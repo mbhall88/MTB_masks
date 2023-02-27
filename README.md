@@ -18,7 +18,7 @@ Taken from [Marin *et al.*][marin] (Additional File 13)
 
 ### `marin-conservative.bed`
 
-Taken from [Marin *et al.*][marin] (Additional File 20). This is the union of `marin-rlc.bed` and `marin-PMapK50E4.bed`.
+This is the union of `marin-rlc.bed` and `marin-PMapK50E4.bed`.
 
 ### `marin-modlin.bed`
 
